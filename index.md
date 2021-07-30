@@ -28,18 +28,23 @@
 
 २. "[Discussions](https://github.com/mukta-strot/marathi-vachva/discussions)" पृष्ठावरील आपल्या कल्पना, टिप्पण्या इ. वर चर्चा करा.
 
-# Marathi vachva (Save the Marathi language)
+# मराठी वाचवा (Save the Marathi language)
 
 ## About
 
-This project is being developed as an effort to help save the
-Marathi language from its gradual and unnoticeable decline into a dying language.
+This project is being developed as an effort to help prevent the evergrowing
+influx of the English language on the Marathi language.
 
 ### Goal
 ---
 
-**Revive the usage of Marathi language in its original/unadulterated
-form in day-to-day life in both spoken and written medium.**
+**Vision** : Revive the usage of Marathi language in a form that is free from
+(or has minimal usage of) the English language.
+
+Which breaks down into **2 main goals** -
+
+1. Use no or minimal English words when communicating in Marathi.
+2. Use Devanagari for typing/writing Marathi instead of the Latin (English) alphabet.
 
 
 ### How to do it?
@@ -49,19 +54,20 @@ form in day-to-day life in both spoken and written medium.**
 3. Provide them with resources (this project basically is a part of this step)
 4. Ask them to do actually implement this in their daily life
 
-This will be done with a combination of videos, blogs and software tools
+This will be done with a combination of videos, blogs etc. and software tools
 such as this.
-(*Contributions in all these are welcome.*)
 
 ## Development and contribution
-It is currently in its very initial stage where I am conceptualising it and
-looking for contributors (developers as well as people well versed in the
-Marathi language).
 
-Some places to do contributions
+Contribution is welcome in many forms. You need not be a software person to
+contribute. Some places to contribute -
 
-**[Please suggest your ideas, comments etc. in the "Discussions"
-page.](https://github.com/mukta-strot/marathi-shabd/discussions)**
+- **Adding/correcting documentation in Marathi language**
+- **Ideas/feedback to improve this project.**
+- **Making short videos clips, GIFs, pictures, texts to help spread our message**
+
+[Please suggest your ideas, comments etc. in the "Discussions"
+page.](https://github.com/mukta-strot/marathi-vachva/discussions)
 
 
 ## What is the need to do this?<a name="problems"></a>

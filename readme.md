@@ -4,5 +4,6 @@
 
 ## About
 
-This project is being developed as an effort to help save the
-Marathi language from its gradual and unnoticeable decline into a dying language.
+This project is being developed as an effort to help prevent the evergrowing
+influx of the English language on the Marathi language.
+Read more at the website above.
