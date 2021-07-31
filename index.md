@@ -2,103 +2,149 @@
 
 # मराठी वाचवा
 
-मराठी भाषा वाचवण्यासाठी मी हा ओपन सोर्स प्रोजेक्ट सुरू केला आहे. 
+मराठी भाषेवर इंग्रजी भाषेचा सतत वाढत असलेल्या प्रभावला नियंत्रित करायला मी हा प्रकल्प चालू केला आहे.
 
-माझ्या मते, आपली भाषा हळूहळू आणि कोणाचाही लक्षात न येता एका मृत भाषेच्या दिशेने वाटचाल करत आहे. 
-या उपक्रमात सगळ्यांचे स्वागत आहे, ज्यांना कोणाला हा एक गंभीर विषय वाटतो व त्यात काही सुधारणा करण्याची गरज आहे असे वाटते. 
+उद्देश आहे की **मराठी भाषेचा वापर अशा स्वरूपात पुनरुज्जीवित करायचा ज्यात इंग्रजी शब्दांचा प्रयोग शक्य टिकत टाळता येईल
+व शक्य झाल्यास पूर्णपणे काढून टाकता येईल.**
 
-अगदी सोप्या रीतीने सांगायचं झाला तर खालील उदाहरण पहा - 
+### थोडक्यात
 
-१. मराठी वाक्यांमधील इंग्रजी शब्दांचा जास्त आणि अनावश्यक वापर.
+मी शहरांमध्ये मराठीच्या ढासळत्या गुणवत्तेबद्दल लोकांना जाणीव करून देण्याचा प्रयत्न करीत आहे आणि त्यास सामोरे जाण्यासाठी काही संसाधने आणि उपाय प्रदान करीत आहे.
+२ मुख्य समस्या आहेत ते म्हणजे - "**मराठी बोलताना व लिहिताना इंग्रजी शब्दांचा नकळत व खूप प्रमाणात प्रयोग**" आणि "**देवनागरी ऐवजी लॅटिन (इंग्रजी) लिपी वापरून मराठी लिहिणे**".
 
-  - **अयोग्य** - "फार bore झालंय. चला एखादा picture बघूया."
-  - **योग्य** - "फार कंटाळा आलाय. चला एखादा चित्रपट बघूया. "
+आत्तापर्यंत पहिल्या समस्येशी संबंधित मदत करण्यासाठी, आम्ही एक उपप्रकल्प [मराठी शब्द](https://mukta-strot.github.io/marathi-shabd/) स्थापित केला आहे ज्यामध्ये जाहिरातमुक्त इंग्रजी ते मराठी कोश आहे.
 
-२. देवनगरीऐवजी लॅटिन अक्षरे वापरुन मराठी टायपिंग / लिहिणे
-
-  - **अयोग्य** - "me tujhya sobat marathi bolat ahe."
-  - **योग्य** - "मी तुझ्या सोबत मराठीत बोलत आहे."
+ह्या प्रकल्पात मदत होण्या साठी व्हिडीओ, ब्लॉग, लेख, सॉफ्टवेअर साधने (जसे हे संकेतस्थळ) इत्यादी यांच्या उपयोग करायचा विचार आहे. 
 
 अधिक माहितीसाठी खालील इंग्रजी मजकूर वाचा.
-**आपण सॉफ्टवेअर अभियंते जरी नसाल तरीही आपण योगदान करू शकता.**
 
-योगदान करण्यासाठी 
+### योगदान
+
+या प्रकल्पात मदत करायची इच्छा असेल तर आम्हाला [इथे संपर्क करा](https://mukta-strot.github.io/#contact). आपण सॉफ्टवेअर अभियंते जरी नसाल तरीही आपण योगदान करू शकता.
+
+योगदान करण्या साठी आपण थेट github प्रकल्पात देखील आपले विचार नोंदवू शकतात. 
 
 १. "Github" वर आपले खाते बनवा 
 
 २. "[Discussions](https://github.com/mukta-strot/marathi-vachva/discussions)" पृष्ठावरील आपल्या कल्पना, टिप्पण्या इ. वर चर्चा करा.
+
 
 # मराठी वाचवा (Save the Marathi language)
 
 ## About
 
 This project is being developed as an effort to help prevent the evergrowing
-influx of the English language on the Marathi language.
+influence of the English language on the Marathi language.
+The objective is to **revive the usage of Marathi language in a form that is
+free from (or has minimal usage of) the English language**.
 
-### Goal
----
+### TLDR
 
-**Vision** : Revive the usage of Marathi language in a form that is free from
-(or has minimal usage of) the English language.
+I am trying to make people realise about the deteriorating quality of Marathi
+in cities and providing some resources and solutions to tackle it. The two main
+problems are "too much English vocabulary used Marathi" and "writing Marathi using
+Latin alphabet instead of Devanagari".
 
-Which breaks down into **2 main goals** -
+As of now, we have a sub project [मराठी शब्द](https://mukta-strot.github.io/marathi-shabd/)
+in place which is an ad free English to Marathi thesaurus, to help with the
+first problem.
 
-1. Use no or minimal English words when communicating in Marathi.
-2. Use Devanagari for typing/writing Marathi instead of the Latin (English) alphabet.
-
-
-### How to do it?
-
-1. Make people realise that [these problems](#problems) exist
-2. Motivate them to work towards fixing it
-3. Provide them with resources (this project basically is a part of this step)
-4. Ask them to do actually implement this in their daily life
-
-This will be done with a combination of videos, blogs etc. and software tools
+I plan to do this with a combination of videos, blogs. articles etc. and software tools
 such as this.
 
-## Development and contribution
+## Problem #1
 
-Contribution is welcome in many forms. You need not be a software person to
-contribute. Some places to contribute -
+### Excessive, unnecessary and unknowing use of English words in Marathi sentences.
 
-- **Adding/correcting documentation in Marathi language**
-- **Ideas/feedback to improve this project.**
-- **Making short videos clips, GIFs, pictures, texts to help spread our message**
+When speaking or writing in Marathi we often, **unknowingly** and
+**unnecessarily** use a **lot of English words**.
+Though this is a natural way for a language to evolve (by using loanwords), the 
+way in which it is currently happening is severly impacting the Marathi language.
+Some of the reasons, in my opinion, being -
 
-[Please suggest your ideas, comments etc. in the "Discussions"
-page.](https://github.com/mukta-strot/marathi-vachva/discussions)
+- most of the English words are not adding to any missing gaps in the Marathi 
+vocabulary, but instead replacing existing words. 
+The Marathi language (like all other Indian languages) already has an extremely
+vast, diverse and beautiful vocabulary.
+- with every next generation of Maharashtrians, the knowledge of Marathi
+  vocabulary is reducing and it may have reduced drastically in the past few decades.
+- as the reach of English medium schools and the internet widens, this phenomena
+  will continue to grow even to rural areas. Even today's TV serials, web
+series, Youtube channels etc. have an extremely Englishised version of Marathi.
+- and last, but not the least, we all don't even realise that this is happening.
+  Which means that no one is taking any corrective action on it, and this
+problem continues to grow like an avalanche.
+
+[**Listen to this speech**](https://youtu.be/Jg7UUU8R_Dc) to better understand what I want to say.
+Below is an excellent example taken from the same.
+
+**Fresh vegetable आणून त्यांना boil करा, मग त्यांना mash करून त्याचं dough बनवा. मग त्याला cut करून deep fry करा.**
+
+8 out of the 20 words (40%) are in English! And most of us urban folk speak like
+this, without even realising it.
+
+## Solution
+
+### Reduce the use of English words when communicating in Marathi.
+
+Below is a simple way in which you can improve your usage of Marathi and at the
+same time help others in doing the same. To make this a success, it will need a
+**collective effort** from all of us. Also I think that **teaching children** about
+this is extremely important and beneficial to this cause, as they can take
+this in without any bias or prejudice and also influence their peers.
 
 
-## What is the need to do this?<a name="problems"></a>
+1. From now on whenever you speak (or write) in Marathi, try to observe the amount of English
+you use in it (like in the example above).
+2. Then try to correct youself. Use the below website (or any website/source you like) to help
+   you find the right Marathi words.
+  - [**मराठी शब्द (English to Marathi thesaurus without ads)**](https://mukta-strot.github.io/marathi-shabd/)
+3. Ask your family, friends, relatives to do the same.
+4. Lastly, do share this page with others on social media and messaging apps.
 
-As I see it, there 2 main problems which are explained below -
+**Some tips from personal experience**
 
-1. **Excessive use of English words in Marathi sentences.**
+- I admit that even when I started doing this, there were certain obstacles
+that I faced. Such as some words felt weird to use or people gave funny reactions etc.
+But trust me, this is all momentary. All the weirdness is simply due to we not
+be used to use our mother tongue proficiently. (As a side note, what can be worse
+that people laughing and feeling weird about their own language. Sigh!)
+- Also don't go full on from 40% English to 0% English in one day, as that can
+surprise (and may be scare) some people. Instead go gradually, replacing a few 
+words daily. This will make it feel more natural to you as well as the people around you.
+- Stand your ground if people try to discourage or ridicule you.
 
-Simply stated this is using a lot of English words in our sentences where 
-we could easily use Marathi words. Example - 
 
-  - Not OK - **"फार bore झालंय. चला एखादा picture बघूया."** 
-  - OK - **"फार कंटाळा आलाय. चला एखादा चित्रपट बघूया. "**
+## Problem #2
 
- The direct consequence of this is that we are loosing our grip on the Marathi
-vocabulary. And this problem is ever growing like a snowball, which needs
-external force and motivation to fix it. This problem exists in both the spoken
-as well as the written form. Also while this is particularly serious in the 
-urban population, it may also expand to rural areas as the reach of English 
-schools and the internet widens. 
+### Typing/writing Marathi using the Latin alphabet instead of Devanagari. 
 
-*This project currently is for working on the above problem only.*
+Do you write Marathi like this when chatting with your friends or posting
+on the internet -
 
-2. **Typing/writing Marathi using the Latin alphabet instead of Devanagari.** 
+**aaj me ghari ushira yein.**
 
-This is basically typing Marathi like this 
+instead of writing it correctly like this -
 
-   - Not OK - **"me tujhya sobat marathit bolat ahe."**
-   - OK - **"मी तुझ्या सोबत मराठीत बोलत आहे."**
-   
-This problem is something that I feel should not exist in today's date, as we 
-now have good keyboards for typing in Marathi using Devanagari on all platforms 
-be it mobile or computers.  However it continues to exist, as people find it 
-easier to type using Latin alphabet on the qwerty keyboard.
+**आज मी घरी उशिरा येईन.**
+
+Honestly this was a problem till about 7-8 years ago when we didn't
+have transliteration keyboards for Indian languages.
+But today we have those on all platforms be it mobile or computers.
+However it continues to exist, as people seem to be
+reluctant to let go of their habit of typing using Latin (English) alphabet.
+
+## Solution
+
+The solution is pretty simple for this - **start using Indic keyboards**.
+
+- Easiest way is to use a transliteration keyboard. That lets you type in
+  English (which lets assume you are used to) but outputs the words in
+Devanagari script. So basically you type "*namaskar*" to get "नमस्कार"
+- These kind of keyboards are available on all platforms like Android, iOS,
+  Windows, Mac and GNU/Linux with some slight variations.
+- On computers you can also use Google translate to do transliteration typing.
+- Another way, with a steep learning curve but more efficiency (especially if you
+  type long texts), is to use an InScript keyboard.
+
+*I will write a detailed post on keyboards later when I can get time.*
