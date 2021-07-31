@@ -128,10 +128,10 @@ instead of writing it correctly like this -
 
 **आज मी घरी उशिरा येईन.**
 
-Honestly this was a problem till about 7-8 years ago when we didn't
-have transliteration keyboards for Indian languages.
-But today we have those on all platforms be it mobile or computers.
-However it continues to exist, as people seem to be
+Honestly this was a genuine problem due to technical limitations 
+till about 7-8 years ago when we didn't have transliteration keyboards for
+Indian languages. But today we have those on all platforms be it mobile 
+or computers. However it continues to exist as people seem to be
 reluctant to let go of their habit of typing using Latin (English) alphabet.
 
 ## Solution
@@ -142,7 +142,8 @@ The solution is pretty simple for this - **start using Indic keyboards**.
   English (which lets assume you are used to) but outputs the words in
 Devanagari script. So basically you type "*namaskar*" to get "नमस्कार"
 - These kind of keyboards are available on all platforms like Android, iOS,
-  Windows, Mac and GNU/Linux with some slight variations.
+  Windows, Mac and GNU/Linux with some slight variations. The most popular one
+  on mobile is **GBoard** from Google, I think.
 - On computers you can also use Google translate to do transliteration typing.
 - Another way, with a steep learning curve but more efficiency (especially if you
   type long texts), is to use an InScript keyboard.
