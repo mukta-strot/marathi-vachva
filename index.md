@@ -42,7 +42,7 @@ free from (or has minimal usage of) the English language**.
 
 I am trying to make people realise about the deteriorating quality of Marathi
 in cities and providing some resources and solutions to tackle it. The two main
-problems are "too much English vocabulary used Marathi" and "writing Marathi using
+problems are "excessive use of English vocabulary in Marathi" and "writing Marathi using
 Latin alphabet instead of Devanagari".
 
 As of now, we have a sub project [मराठी शब्द](https://mukta-strot.github.io/marathi-shabd/)
