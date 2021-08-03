@@ -7,10 +7,17 @@
 उद्देश आहे की **मराठी भाषेचा वापर अशा स्वरूपात पुनरुज्जीवित करायचा ज्यात इंग्रजी शब्दांचा प्रयोग शक्य टिकत टाळता येईल
 व शक्य झाल्यास पूर्णपणे काढून टाकता येईल.**
 
+### उपप्रकल्प
+
+- [मराठी शब्द](https://mukta-strot.github.io/marathi-shabd/) - इंग्रजी ते मराठीचा कोश
+
 ### थोडक्यात
 
 मी शहरांमध्ये मराठीच्या ढासळत्या गुणवत्तेबद्दल लोकांना जाणीव करून देण्याचा प्रयत्न करीत आहे आणि त्यास सामोरे जाण्यासाठी काही संसाधने आणि उपाय प्रदान करीत आहे.
-२ मुख्य समस्या आहेत ते म्हणजे - "**मराठी बोलताना व लिहिताना इंग्रजी शब्दांचा नकळत व खूप प्रमाणात प्रयोग**" आणि "**देवनागरी ऐवजी लॅटिन (इंग्रजी) लिपी वापरून मराठी लिहिणे**".
+२ मुख्य समस्या आहेत ते म्हणजे - 
+
+- **मराठी बोलताना व लिहिताना इंग्रजी शब्दांचा नकळत व खूप प्रमाणात प्रयोग**
+- **देवनागरी ऐवजी लॅटिन (इंग्रजी) लिपी वापरून मराठी लिहिणे**
 
 आत्तापर्यंत पहिल्या समस्येशी संबंधित मदत करण्यासाठी, आम्ही एक उपप्रकल्प [मराठी शब्द](https://mukta-strot.github.io/marathi-shabd/) स्थापित केला आहे ज्यामध्ये जाहिरातमुक्त इंग्रजी ते मराठी कोश आहे.
 
@@ -20,14 +27,14 @@
 
 ### योगदान
 
-या प्रकल्पात मदत करायची इच्छा असेल तर आम्हाला [इथे संपर्क करा](https://mukta-strot.github.io/#contact). आपण सॉफ्टवेअर अभियंते जरी नसाल तरीही आपण योगदान करू शकता.
+- या प्रकल्पात मदत करायची इच्छा असेल तर आम्हाला [इथे संपर्क करा](https://mukta-strot.github.io/#contact). 
+- आपण सॉफ्टवेअर अभियंते जरी नसाल तरीही आपण योगदान करू शकता.
+- **मला विशेषतः मराठीत मजकूर लिहिण्यासाठी मदतीची गरज आहे.**
+- Github वर खाते असल्यास आपण थेट "[Discussions](https://github.com/mukta-strot/marathi-vachva/discussions)" पृष्ठावरील आपल्या कल्पना, टिप्पण्या इत्यादी नोंदवून त्यावर चर्चा करू शकता.
 
-योगदान करण्या साठी आपण थेट github प्रकल्पात देखील आपले विचार नोंदवू शकतात. 
+---
 
-१. "Github" वर आपले खाते बनवा 
-
-२. "[Discussions](https://github.com/mukta-strot/marathi-vachva/discussions)" पृष्ठावरील आपल्या कल्पना, टिप्पण्या इ. वर चर्चा करा.
-
+*\<English begins here\>*
 
 # मराठी वाचवा (Save the Marathi language)
 
@@ -38,7 +45,7 @@ influence of the English language on the Marathi language.
 The objective is to **revive the usage of Marathi language in a form that is
 free from (or has minimal usage of) the English language**.
 
-### TLDR
+### Overview (TLDR)
 
 I am trying to make people realise about the deteriorating quality of Marathi
 in cities and providing some resources and solutions to tackle it. The two main
