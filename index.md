@@ -4,8 +4,7 @@
 
 मराठी भाषेवर इंग्रजी भाषेचा सतत वाढत असलेल्या प्रभावला नियंत्रित करायला मी हा प्रकल्प चालू केला आहे.
 
-उद्देश आहे की **मराठी भाषेचा वापर अशा स्वरूपात पुनरुज्जीवित करायचा ज्यात इंग्रजी शब्दांचा प्रयोग शक्य टिकत टाळता येईल
-व शक्य झाल्यास पूर्णपणे काढून टाकता येईल.**
+उद्देश आहे की **मराठी भाषेचा वापर अशा स्वरूपात पुनरुज्जीवित करायचा ज्यात इंग्रजी शब्दांचा प्रयोग शक्य टिकत टाळता येईल.** मी मराठीत इंग्रजी शब्द वापरण्याच्या विरोधात नाही. माझ्या मते, जिथे खरंच आवश्यकता आहे तिथे इंग्रजी शब्द वापरायला हरकत नाही. पण मराठी बोलत/लिहत  असताना  **अनावश्यक ठिकाणी, अनावधानेने  व नकळत** इंग्रजी शब्दांचा वापर टाळावा असे माझे मत आहे.
 
 ### उपप्रकल्प
 
@@ -42,8 +41,7 @@
 
 This project is being developed as an effort to help prevent the evergrowing
 influence of the English language on the Marathi language.
-The objective is to **revive the usage of Marathi language in a form that is
-free from (or has minimal usage of) the English language**.
+The objective is to **reduce the usage of unnecessary English vocabulary in Marathi language.**. I am not against the use of English words in Marathi. I feel it is ok to use them where it is absolutely necessary, but the **unnoticed, unintentional and unnecessary** use of English words is something that I am trying to avoid and make people aware of.
 
 ### Overview (TLDR)
 
